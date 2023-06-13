@@ -1,0 +1,6 @@
+{
+"version": 2,
+"routes": [
+  {"src": "/(.*)","dest": "http://frp1.freefrp.net/$1"}
+]
+}
