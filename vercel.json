@@ -1,3 +1,8 @@
 {
-  "version": 2
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://github.com/$1"
+    }
+  ]
 }
