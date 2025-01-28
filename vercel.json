@@ -1,6 +1,6 @@
 {
 "version": 2,
 "routes": [
-  {"src": "/(.*)","dest": "http://frp1.freefrp.net/$1"}
+  {"src": "/(.*)","dest": "http://owu.chengtx.xyz/$1"}
 ]
 }
