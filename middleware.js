@@ -1,6 +1,6 @@
 export default function middleware(req) {
   const url = new URL(req.url)
-  const targetUrl = new URL('http://chengtx809-web.hf.space' + url.pathname + url.search)
+  const targetUrl = new URL('https://chengtx809-web.hf.space' + url.pathname + url.search)
   
   return fetch(targetUrl, {
     headers: {
