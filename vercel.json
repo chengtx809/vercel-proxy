@@ -1,6 +1,3 @@
 {
-"version": 2,
-"routes": [
-  {"src": "/(.*)","dest": "http://chengtx809-web.hf.space/$1"}
-]
+  "version": 2
 }
