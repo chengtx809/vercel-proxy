@@ -1,6 +1,6 @@
 {
 "version": 2,
 "routes": [
-  {"src": "/(.*)","dest": "http://owu.chengtx.xyz/$1"}
+  {"src": "/(.*)","dest": "http://chengtx809-web.hf.space/$1"}
 ]
 }
